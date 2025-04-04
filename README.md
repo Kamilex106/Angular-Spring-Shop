@@ -66,3 +66,10 @@ To configure Okta authentication:
 1. Create an account on the Okta platform
 2. Create an OIDC application
 3. Configure the `my-app-config.ts` file with appropriate credentials
+
+Sample user:
+login: `kamil@test.com`
+password: `ShopUser123@`
+
+
+
