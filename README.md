@@ -32,7 +32,6 @@ An e-commerce application built using Angular (frontend) and Spring Boot (backen
 
 ### Prerequisites
 - Node.js and npm
-- Angular CLI
 - Java JDK 21+
 - Maven
 
@@ -40,7 +39,13 @@ An e-commerce application built using Angular (frontend) and Spring Boot (backen
 1. Navigate to the frontend directory
 2. Install dependencies:
 ```
-npm install
+npm install -g @angular/cli
+npm install bootstrap@5.3.5
+npm install @ng-bootstrap/ng-bootstrap
+npm install @okta/okta-auth-js@7.11.3
+npm install @okta/okta-angular@6.5.1
+npm install @okta/okta-signin-widget@7.30.1
+
 ```
 3. Run the application:
 ```
