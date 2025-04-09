@@ -76,5 +76,7 @@ Sample user:
 login: `kamil@test.com`
 password: `ShopUser123@`
 
+Project inspired by: https://www.udemy.com/course/full-stack-angular-spring-boot-tutorial/
+
 
 
