@@ -144,7 +144,7 @@ aside.menu-sidebar.d-none.d-lg-block.clr {
  */
 
 .header-desktop {
-  background: #0da8e4;
+  background: #96cea7;
   -webkit-box-shadow: 0 2px 5px 0 rgba(0, 0, 0, 0.1);
   -moz-box-shadow: 0 2px 5px 0 rgba(0, 0, 0, 0.1);
   box-shadow: 0 2px 5px 0 rgba(0, 0, 0, 0.1);
@@ -708,7 +708,7 @@ table.table.table-bordered {
   border: 1px solid #dee2e6;
 }
 table.table.table-bordered th {
-  background: #0da8e4;
+  background: #568b55;
   border: 2px solid #dee2e6;
   color: #fff;
   font-size: 14px;

@@ -5,7 +5,7 @@ import {
   FormGroup,
   Validators,
 } from '@angular/forms';
-import { Luv2ShopFormService } from '../../services/luv2-shop-form.service';
+import { KamShopFormService } from '../../services/kam-shop-form.service';
 import { Country } from '../../common/country';
 import { State } from '../../common/state';
 import { Luv2ShopValidators } from '../../validators/luv2-shop-validators';
@@ -41,7 +41,7 @@ export class CheckoutComponent implements OnInit {
 
   constructor(
     private formBuilder: FormBuilder,
-    private luv2ShopFormService: Luv2ShopFormService,
+    private luv2ShopFormService: KamShopFormService,
     private cartService: CartService,
     private checkoutService: CheckoutService,
     private router: Router
