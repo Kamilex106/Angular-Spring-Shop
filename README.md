@@ -1,4 +1,4 @@
-# E-Commerce Angular + Spring Boot
+# E-Commerce Angular 19 + Spring Boot 3
 
 ## Project Description
 
@@ -49,9 +49,9 @@ npm install @okta/okta-signin-widget@7.30.1
 ```
 3. Run the application:
 ```
-ng serve
+npm start
 ```
-4. The application will be available at: `http://localhost:4200/`
+4. The application will be available at: `https://localhost:4200/`
 
 ### Backend
 1. Navigate to the backend directory
@@ -63,7 +63,7 @@ mvn clean install
 ```
 mvn spring-boot:run
 ```
-4. The API will be available at: `http://localhost:8080/api`
+4. The API will be available at: `https://localhost:8443/api`
 
 ## Okta Configuration
 
